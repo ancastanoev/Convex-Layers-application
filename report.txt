@@ -1,0 +1,22 @@
+Algorithm Performance Report
+===========================
+Quickhull:
+  Time Taken: 0.8457 seconds
+  Complexity: O(n log n)
+
+Andrew:
+  Time Taken: 0.8457 seconds
+  Complexity: O(n log n)
+
+Graham:
+  Time Taken: 0.8466 seconds
+  Complexity: O(n log n)
+
+Chan:
+  Time Taken: 0.8599 seconds
+  Complexity: O(n log h)
+
+Jarvis:
+  Time Taken: 0.8772 seconds
+  Complexity: O(n^2)
+
